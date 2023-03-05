@@ -44,7 +44,7 @@ Data Analysis Using Power BI
 
 See sales_insights_BI.pdf for final look of dashboard.
 
-####Analysis for the year 2020:-
+#### Analysis for the year 2020:-
 
 -> Sales are steadily declining in the last four months(Mar-Jun).
 
@@ -62,7 +62,7 @@ See sales_insights_BI.pdf for final look of dashboard.
 
 
 
-####To increase profit, following points maybe considered :
+#### To increase profit, following points maybe considered :
 
 Product Quality
 
@@ -77,7 +77,7 @@ Product packaging
 Identify which areas product to be sold.
 
 
-####To increase the sales growth, following points can be studied:
+#### To increase the sales growth, following points can be studied:
 
 -Revenue by zone
 
