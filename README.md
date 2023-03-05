@@ -45,8 +45,10 @@ Data Analysis Using Power BI
 See sales_insights_BI.pdf for final look of dashboard.
 
 Analysis for the year 2020:-
-Sales are steadily declining in the last four months(Mar-Jun). 
-Bhuwaneswar has more profit margin even though Delhi has more sales.
+-> Sales are steadily declining in the last four months(Mar-Jun).
+
+-> Bhuwaneswar has more profit margin even though Delhi has more sales.
+
 Mumbai is contributing 23.9% of all the profit.
 Delhi is providing only 22.1% profit.
 Although Delhi is the biggest market in terms of revenue , Mumbai is the top contributor in terms of profit by market.
